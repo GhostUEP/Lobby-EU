@@ -1,0 +1,8 @@
+name: FreeLobby
+version: 1.0.0
+main: me.ghost.Main
+author: GhostUEP
+commands:
+  admin:
+  spawn:
+  modteleport:
